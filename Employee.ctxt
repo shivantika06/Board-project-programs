@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=employeeId
+comment1.target=void\ setEmployeeId(int)
+comment2.params=employeeName
+comment2.target=void\ setEmployeeName(java.lang.String)
+comment3.params=salary
+comment3.target=void\ setSalary(double)
+comment4.params=netSalary
+comment4.target=void\ netSalary(double)
+comment5.params=
+comment5.target=int\ getEmployeeId()
+comment6.params=
+comment6.target=java.lang.String\ getEmployeeName()
+comment7.params=
+comment7.target=double\ getSalary()
+comment8.params=
+comment8.target=double\ getNetSalary()
+comment9.params=pfpercentage
+comment9.target=void\ calculateNetSalary(int)
+numComments=10

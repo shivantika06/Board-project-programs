@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=generate
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ to\ generate\ 20\ unique\ random\ numbers\r\n
+numComments=2
